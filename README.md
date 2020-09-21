@@ -7,7 +7,5 @@ Apps Screenshot :
 
 [site link](https://my-flutter-apps-45cdb.web.app/#/)
 
-[apk](https://my-flutter-apps-45cdb.web.app/#/)
-
 [exe](https://github.com/mfedawy/myportfolio_flutter_multiplatform/raw/master/Release.rar)
 
