@@ -183,7 +183,7 @@ class ProfileInfo extends StatelessWidget {
       ),
       Text(
         "Mohamed\nAlfedawy",
-        textScaleFactor: 5,
+        textScaleFactor: 3,
         style: TextStyle(
           color: Colors.white,
           fontWeight: FontWeight.bold,
